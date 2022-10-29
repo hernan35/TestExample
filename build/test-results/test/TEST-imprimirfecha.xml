@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="imprimirfecha" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-29T02:12:22" hostname="DESKTOP-GFL5RF8" time="0.033">
+  <properties/>
+  <testcase name="Date()" classname="imprimirfecha" time="0.033"/>
+  <system-out><![CDATA[La Fecha de Nacimiento es: 
+25/06/1984
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
